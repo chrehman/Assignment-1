@@ -1,3 +1,3 @@
 # Assignment 1
  Programming In Ai
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrehman/Assignment-1/a888ed5f47b99694d220dbb400ca2846fc08e974)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/chrehman-assignment-1-wlu9lxtg/tree)
